@@ -11,7 +11,7 @@ TagDrive is a modern file management system where users can upload, download, an
 - **MongoDB**: Flexible and efficient NoSQL database.
 - **AWS S3**: Scalable and secure file storage.
 
-### Frontend
+### Frontend (In Progress)
 - **ReactJS**: Modern frontend framework for dynamic user interfaces.
 - **TypeScript**: Ensures type safety and enhances maintainability.
 
